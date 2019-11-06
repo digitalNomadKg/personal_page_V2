@@ -1,0 +1,89 @@
+@media(max-width:1320px){
+  .navbar-dark .navbar-nav .nav-link {
+      font-size: 16px;
+  }
+    .avatar {
+           height: 24rem;
+  }
+  .top-container img {
+    height: 17rem;
+  }
+}
+
+@media(max-width:990px){
+  .avatar {
+    height: 20rem;
+}
+.top-container img {
+  height: 14rem;
+}
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 20x;
+}
+}
+
+@media(max-width:700px){
+  .top-container img {
+    height: 14rem;
+}
+
+.top-container h1 {
+  font-size: 2.62em;
+}
+}
+
+@media(max-width:375px){
+  .sm-top-container {
+    padding: 1rem 1rem 0 2rem;
+    float: right;
+}
+.navbar-brand img {
+  height: 3rem;
+}
+.top-container {
+  padding: 15px;
+
+}
+.top-container h1 {
+  font-size: 2.62em;
+}
+.top-container img {
+  height: 10rem;
+}
+h2 {
+  font-size: 1rem;
+  line-height: normal;
+  padding: 0rem;
+}
+.intro {
+  width: 82%;
+  line-height: 2;
+  text-align: justify;
+  font-size: 15px;
+}
+.avatar {
+  height: 10rem;
+}
+h3 {
+  font-size: 20px;
+}
+
+.skill-img {
+  width: 8rem;
+  float: none;
+  margin: 0;
+}
+.skill-img2 {
+  width: 8rem;
+  float: none;
+  margin: 0;
+}
+.btn{
+  font-size: 15px;
+}
+
+.copyright {
+  font-size: 10px;
+
+}
+}
