@@ -28,7 +28,6 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   font-weight: bold;
-  text-transform: uppercase;
   color: #01d28e;
   line-height: 2;
 }
@@ -50,8 +49,7 @@ h3{
 }
 
 .sm-top-container {
-  padding: 3rem 6rem 0 2rem;
-  float: right;
+  padding: 2rem;
 }
 
 .sm-top-container a{

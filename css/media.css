@@ -34,7 +34,7 @@
 
 @media(max-width:375px){
   .sm-top-container {
-    padding: 1rem 1rem 0 2rem;
+    padding: 0;
     float: right;
 }
 .navbar-brand img {
