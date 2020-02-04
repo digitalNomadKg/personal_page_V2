@@ -20,6 +20,9 @@
 .navbar-dark .navbar-nav .nav-link {
   font-size: 20x;
 }
+.sm-top-container {
+  padding: 0;
+}
 }
 
 @media(max-width:700px){
@@ -30,18 +33,21 @@
 .top-container h1 {
   font-size: 2.62em;
 }
+
+.sm-top-container {
+  padding: 0;
+}
 }
 
 @media(max-width:375px){
   .sm-top-container {
-    padding: 1rem 1rem 0 2rem;
-    float: right;
+    padding: 0;
 }
 .navbar-brand img {
   height: 3rem;
 }
 .top-container {
-  padding: 15px;
+  padding: 23px;
 
 }
 .top-container h1 {
@@ -101,6 +107,10 @@ h3 {
 
 .contact-me-bg {
   height: 10rem;
+}
+
+.scroll-down{
+  display: none;
 }
 
 }
