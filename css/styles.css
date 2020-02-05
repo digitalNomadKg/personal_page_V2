@@ -81,7 +81,7 @@ h3{
   color:#45454d;
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1rem;
 }
 .navbar-dark .navbar-nav .nav-link:hover{
   color:#0078FF;
@@ -123,7 +123,7 @@ h3{
 
 }
 .bottom-container{
-  background-color: #45454d;
+  background-color: #150941;
   padding: 50px 0 0 20px;
 }
 
@@ -302,4 +302,8 @@ text-align: justify;
   color: #150941;
   text-decoration: none;
   background-color: #0078FF;
+}
+
+.svg-inline--fa.fa-w-14 {
+  width: 1.5em;
 }
