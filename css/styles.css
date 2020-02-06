@@ -89,7 +89,7 @@ h3{
 
 .top-container{
  background-color:#150941; 
- padding: 47px 50px 50px;
+ padding: 47px 50px 60px;
 }
 
 .top-container h1{
@@ -110,7 +110,7 @@ h3{
 }
 
 .top-container img{
-  height: 20rem;
+  height: 17rem;
   border-radius: 15%;
   margin: 0;
 }
@@ -143,7 +143,7 @@ h3{
 
 .avatar{
   width: auto;
-  height: 40rem;
+  height: 35rem;
   margin-top: 5rem;
 }
 
